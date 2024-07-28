@@ -1,0 +1,73 @@
+{
+	"compiler": {
+		"version": "0.8.1+commit.df193b15"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "deposit",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "totalBalance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "withdrawal",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"theBank.sol": "TheBank"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"theBank.sol": {
+			"keccak256": "0xafaa333f9d6005f4eb1cb90cf972b842d32ea27da56c99c543b0cf6da7a8fd79",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7ce15f2c83b43620b12e0f7b51ca30e9fdb16b098960b1fc101cb80354a593de",
+				"dweb:/ipfs/QmTdruhTnNVP52i4wv6YY5zZda6XYSr6v5EiZ1DHZ2euKu"
+			]
+		}
+	},
+	"version": 1
+}
