@@ -12,6 +12,6 @@ In addition, the project also covers the mechanism and detection of a common typ
 + OpenZeppelin
 + Ganache, RemixIDE, MetaMask
 ## Usage
-You can use RemixIDE web version (or install) to run the "smart_contract.sol" file in the "scripts" folder, and can deploy the Smart Contract on MetaMask - a Chrome (or other browser) extension.
+You can use RemixIDE web version (or install) to run the "smart_contract.sol" file in the "contracts" folder, and can deploy the Smart Contract on MetaMask - a Chrome (or other browser) extension.
 ## Contribution
 Dang Duy Hau, Cao Bao Nguyen, Hoang Anh Tuan, Nguyen Thi Vang, Nguyen Thai Duong
